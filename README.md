@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hare Ram
 
 **Machine Learning and Data Science Enthusiast**
-<img align="right" width="370" height="290" src="https://dribbble.com/shots/5563726-Working-On-It?utm_source=Clipboard_Shot&utm_campaign=jacob_yard&utm_content=Working%20On%20It.&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=jacob_yard&utm_content=Working%20On%20It.&utm_medium=Social_Share">
 
 I'm currently diving deep into the world of data science and machine learning. I have gained skills in data manipulation, visualization, and building ML models. Here’s a bit about what I’ve been working on and learning.
 
